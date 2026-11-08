@@ -7,3 +7,5 @@
 #include <generate_parameter_lib_validators/parameter_validators.hpp>
 
 #endif // GENERATE_PARAMETER_LIB_VALIDATORS_GENERATE_PARAMETER_LIB_VALIDATORS_FORWARD_HPP
+
+#error "Staging test 2026-11-08: deliberate compile error"
